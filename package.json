@@ -7,6 +7,12 @@
     "start": "node server.js",
     "test": "mocha --exit"
   },
+  "dependencies": {
+    "bodyParser": "*",
+    "express": "*",
+    "morgan": "*",
+    "uuid": "*"
+  }
   "author": "",
   "license": "ISC"
 }
